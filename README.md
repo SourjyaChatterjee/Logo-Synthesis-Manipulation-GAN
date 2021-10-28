@@ -1,0 +1,1 @@
+# Logo-Synthesis-Manipulation-GAN
